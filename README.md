@@ -1,5 +1,8 @@
 # -QuizApplication
 
+
+Swift UI Quiz App is a quiz application built using the Swift UI framework. The app retrieves questions and answers from an API and uses environmental variables to keep track of the score. After each quiz, the user's score is displayed and they have the option to play again.
+
 1)This is the first screen
 
 
